@@ -46,6 +46,7 @@ To do that, use `plangfo [option] [directory]`
 - [ ] `--code-all` | How many lines of code in the whole directory.
 - [ ] `--code-lang` | How many lines of code each language has.
 - [ ] `--ignore` | Ignore some specific languages.
+- [ ] Cython, or switch to C.
 
 # Languages
 
